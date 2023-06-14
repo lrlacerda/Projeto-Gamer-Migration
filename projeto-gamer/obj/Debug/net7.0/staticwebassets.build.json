@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sZ/LhoWNvUDzYnIVEsVjrnBcJGZFt/YWjviySpWwjAw=",
+  "Hash": "gwv588FMsN/N4b6PxUm8YCJ9JV9Waxq49c/OQOzOe0g=",
   "Source": "projeto-gamer",
   "BasePath": "_content/projeto-gamer",
   "Mode": "Default",
@@ -1052,6 +1052,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\vector-user.svg"
+    },
+    {
+      "Identity": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\css\\Header-Footer.css",
+      "SourceId": "projeto-gamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer",
+      "RelativePath": "css/Header-Footer.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Header-Footer.css"
     },
     {
       "Identity": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\css\\site.css",
