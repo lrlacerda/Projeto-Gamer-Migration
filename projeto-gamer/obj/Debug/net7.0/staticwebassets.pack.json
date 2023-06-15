@@ -245,6 +245,18 @@
       "PackagePath": "staticwebassets\\css\\Header-Footer.css"
     },
     {
+      "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\css\\equipes.css",
+      "PackagePath": "staticwebassets\\css\\equipes.css"
+    },
+    {
+      "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\css\\jogadores.css",
+      "PackagePath": "staticwebassets\\css\\jogadores.css"
+    },
+    {
       "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
