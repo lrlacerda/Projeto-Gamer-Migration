@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\assets\\Botao_voltar_ao_topo.svg"
     },
     {
+      "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\assets\\edit.png",
+      "PackagePath": "staticwebassets\\assets\\edit.png"
+    },
+    {
       "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\assets\\envelope-icon.png",
       "PackagePath": "staticwebassets\\assets\\envelope-icon.png"
     },
@@ -315,6 +319,14 @@
     {
       "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\images\\backgrund_notícias.png",
       "PackagePath": "staticwebassets\\images\\backgrund_notícias.png"
+    },
+    {
+      "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\images\\img-Jogador-fundo.png",
+      "PackagePath": "staticwebassets\\images\\img-Jogador-fundo.png"
+    },
+    {
+      "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\images\\img-fundo-equipes.png",
+      "PackagePath": "staticwebassets\\images\\img-fundo-equipes.png"
     },
     {
       "Id": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\wwwroot\\images\\kiljoy.png",
