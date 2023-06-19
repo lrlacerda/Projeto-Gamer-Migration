@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj": {}
+    "C:\\Users\\lribe\\OneDrive\\Área de Trabalho\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj": {
+    "C:\\Users\\lribe\\OneDrive\\Área de Trabalho\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj",
+        "projectUniqueName": "C:\\Users\\lribe\\OneDrive\\Área de Trabalho\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj",
         "projectName": "projeto-gamer",
-        "projectPath": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj",
-        "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32784630803\\Desktop\\Projeto-Gamer-Migration\\projeto-gamer\\obj\\",
+        "projectPath": "C:\\Users\\lribe\\OneDrive\\Área de Trabalho\\Projeto-Gamer-Migration\\projeto-gamer\\projeto-gamer.csproj",
+        "packagesPath": "C:\\Users\\lribe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lribe\\OneDrive\\Área de Trabalho\\Projeto-Gamer-Migration\\projeto-gamer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lribe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,7 +52,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.1.23111.4, )"
+              "version": "[7.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -57,6 +63,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
@@ -78,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

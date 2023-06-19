@@ -24,7 +24,7 @@ namespace projeto_gamer.Infra
             if (!optionsBuilder.IsConfigured)
             {
                 //string de conexão com o banco
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-2B634JF; Initial catalog = gamerManha; user id = sa; password = Senai@134; TrustServerCertificate = true"); //Data Source (gerenciador do banco, nome do cervidor) initial catalog (nome do banco de dados)
+                optionsBuilder.UseSqlServer("Data Source = LAPTOP-LUCAS\\SQLEXPRESS; Initial catalog = gamerManha; user id = sa; password = Vidanova7836#; TrustServerCertificate = true"); //Data Source (gerenciador do banco, nome do cervidor) initial catalog (nome do banco de dados)
             }
         }
 
