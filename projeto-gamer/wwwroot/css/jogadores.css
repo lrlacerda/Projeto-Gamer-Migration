@@ -5,7 +5,7 @@
 main {
   margin-top: 60px;
   height: 1403px;
-  background-image: url(../images/img-Jogador-fundo.png);
+  background-image: url(../images/img-jogador-fundo.jpg);
   background-size: contain;
   background-position: top;
 }
@@ -228,7 +228,8 @@ main .cadastro-equipes table td img.green-play {
 }
 
 main .cadastro-equipes table td img.yellow-trash {
-  width: 15px;
+  width: 20px;
+  margin: 0 15px;
 }
 
 /* Desktop */
@@ -240,7 +241,7 @@ main .cadastro-equipes table td img.yellow-trash {
     /* border: 1px solid #EC4358; */
   }
   main {
-    background-image: url(../images/background-jogadores.png);
+    background-image: url(../images/img-jogador-fundo.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

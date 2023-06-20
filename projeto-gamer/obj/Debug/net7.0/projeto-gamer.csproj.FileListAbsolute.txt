@@ -822,8 +822,6 @@ C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
@@ -831,7 +829,6 @@ C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
 C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
@@ -1152,3 +1149,12 @@ C:\Users\lribe\OneDrive\Área de Trabalho\Projeto-Gamer-Migration\projeto-gamer\
 C:\Users\lribe\OneDrive\Área de Trabalho\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
 C:\Users\lribe\OneDrive\Área de Trabalho\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\lribe\OneDrive\Área de Trabalho\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\32784630803\Desktop\Projeto-Gamer-Migration\projeto-gamer\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
